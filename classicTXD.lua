@@ -6,8 +6,8 @@ local script_author = "DjC"
 local samp = require "samp.events"
 local sampev = require("lib.samp.events")
 
-local txdServer = 2054 -- RPG.B-ZONE.RO
-local txdName = 2055 -- Name (ID)
+local txdServer = 2049 -- RPG.B-ZONE.RO
+local txdName = 2048 -- Name (ID)
 
 function main()
     if not isSampfuncsLoaded() or not isSampLoaded() then return end
