@@ -1,5 +1,5 @@
 local script_name = "Classic Textdraw"
-local script_version = "0.0.1"
+local script_version = "0.0.2"
 local script_author = "DjC"
 
 -- Libraries ======================================
