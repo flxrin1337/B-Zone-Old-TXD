@@ -4,8 +4,8 @@
 -- This is from the latest update where TXD IDs are dynamically assigned to optimize their code."
 
 local script_name = "Classic Textdraw"
-local script_version = "v1"
-local script_author = "AnTiDoT - Forked from DjC"
+local script_version = "0.0.3"
+local script_author = "DjC - Forked by AnTiDoT"
 
 -- Libraries
 local samp = require "samp.events"
